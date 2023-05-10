@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owOYwfgV8HrcqyBYVboEwov4YiA+KbHoNlOdVXbw4jjKUVHvMqhgyX/Elz5x31HYnJahOI1By9LAmL1pzsCWIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\altin\\RiderProjects\\HotelProjectApi\\RapidApi\\RapidApi.Consume\\RapidApi.Consume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
